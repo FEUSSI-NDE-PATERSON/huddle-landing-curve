@@ -1,0 +1,19 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+#Page{
+    overflow-x: hidden;
+}
+#hello{
+    background-image: url('/images/bg-section-bottom-desktop-2.svg');
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+#part{
+    background-image: url('/images/bg-section-top-mobile-1.svg');
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position:left bottom;
+
+}
